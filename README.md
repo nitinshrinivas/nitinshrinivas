@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @nitinshrinivas
-- 🏫 Doing my Undergraduate Research and B.Tech in ECE from IIIT-H.
-- 👀 I’m interested in the topic of Age of Information and IoT networks.
-- 📫 Ping me on - nitin.shrinivas@students.iiit.ac.in for any collabration requests.
+👋Heyy, I'm @nitinshrinivas !!
 
-<!---
-nitinshrinivas/nitinshrinivas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a student of IIIT-H pursuing my BTech (Hons.) in Electronics and Communication Engineering. I'm also an undergraduate researcher working under the guidance of Praful D. Mankar in the Signal Processing and Communication Reaseach Center known by the name SPCRC, IIIT-H. Currently, I work in the area of Age of Information (AoI) which has a very great use in real time status update of the IoT systems. 
+
+
+
+Contact and connect to me @ nitin.shrinivas@students.iiit.ac.in
